@@ -28,3 +28,7 @@ copy(JSON.stringify(x, null, 2));
 ## TODO
 
 * Chrome extension for Amazon, Book Depository etc.?
+
+## License
+
+ISC
