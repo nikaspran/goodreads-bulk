@@ -1,7 +1,10 @@
 {
   "goodreads": {
-    "key": "IKvXhFvuBRb5OCXhB8Pi0Q"
+    "key": "<your api key, get one at https://www.goodreads.com/api/keys>"
   },
   "namesByIsbn13": {
+    "<some isbn13>": "<book name or empty, this is for your convenience",
+    "9781841499949": "Some example book",
+    "...": "There can be up to 1000 of these"
   }
 }
